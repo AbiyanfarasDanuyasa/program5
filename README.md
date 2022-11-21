@@ -7,8 +7,8 @@
 # Output
 ![gambar3](https://user-images.githubusercontent.com/115562487/203100914-2db86f5c-bed8-451c-b973-b62ce133a8f1.png)
 # Penjelasan
-Inisiasi Variable dengan metode []
-Menggunakan while
-Hasil akhir dengan
+ • Inisiasi Variable dengan metode []
+ • Menggunakan while
+ • Hasil akhir dengan
 ![gambar4](https://user-images.githubusercontent.com/115562487/203103957-3168e74b-86c5-4b2a-a0e6-c03163142d53.png)
 Program akan terus menambah ketika mengisi 'y' dan akan berhenti ketika 't'
